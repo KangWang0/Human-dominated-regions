@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20240817</CreaDate><CreaTime>00250800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\RasterToPolygon" Date="20240817" Time="002508">RasterToPolygon Con_wildarea2_Resample E:\Data_temp\CESM2_LENS\wildareasv32009\wildareasv32009_exported.shp SIMPLIFY Value SINGLE_OUTER_PART #</Process></lineage></DataProperties></Esri></metadata>
